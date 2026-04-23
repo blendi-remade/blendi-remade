@@ -1,4 +1,4 @@
-# Hey, I'm Blendi
+# 👋 Hey, I'm Blendi
 
 working as an engineer at [fal](https://fal.ai/)
 
