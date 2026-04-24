@@ -2,10 +2,6 @@
 
 working as an engineer at [fal](https://fal.ai/)
 
-Co-Founder of Remade (YC S24)
-
-MEng in Computer Engineering @ University of Cambridge
-
 *some of my favorite work is:*
 
 [Sprite Sheet Creator](https://github.com/blendi-remade/sprite-sheet-creator): Sprite sheet generator for 2D pixel art characters with AI-powered character generation from prompts or images, supporting side-scroller and isometric RPG-style games.
