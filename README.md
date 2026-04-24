@@ -8,7 +8,7 @@ working as an engineer at [fal](https://fal.ai/)
 
 [falcraft](https://github.com/blendi-remade/falcraft): Minecraft Fabric mod that uses fal.ai to generate AI-created 3D structures from natural language prompts, converted into voxelated block-based models.
 
-[Isometric City fal](https://github.com/blendi-remade/isometric-city-fal): Custom building generation, fork of [Isometric City}(https://github.com/amilich/isometric-city). Describe a building and it gets created and placed in your city.
+[Isometric City fal](https://github.com/blendi-remade/isometric-city-fal): Custom building generation, fork of [Isometric City](https://github.com/amilich/isometric-city). Describe a building and it gets created and placed in your city.
 
 [Earth Cinema](https://github.com/blendi-remade/earth-cinema): Chrome extension that captures Google Earth 3D views and transforms them into cinematic images and videos using fal.ai.
 
