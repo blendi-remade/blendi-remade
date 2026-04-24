@@ -2,6 +2,8 @@
 
 working as an engineer at [fal](https://fal.ai/)
 
+Co-Founder of Remade (YC S24)
+
 MEng in Computer Engineering @ University of Cambridge
 
 *some of my favorite work is:*
