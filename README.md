@@ -21,7 +21,3 @@ working as an engineer at [fal](https://fal.ai/)
 [Banana Peel](https://github.com/blendi-remade/banana-peel): Collaborative image evolution platform where users upload images and the community generates AI-powered variations through text prompts, creating branching chains of transformations.
 
 [DESI Universe](https://github.com/blendi-remade/desi-universe): Interactive 3D browser visualization of 1.4 million real astronomical objects from the DESI Data Release 1, explorable by spectroscopic redshift.
-
----
-
-Shoot me a DM on [x](https://x.com/BlendiByl)
