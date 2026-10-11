@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Blendi
 
-working as an engineer at [fal](https://fal.ai/)
+currently working on something new!
 
 *some of my favorite work is:*
 
